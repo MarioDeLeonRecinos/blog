@@ -1,0 +1,54 @@
+*{
+    background-color: #c5dfc5;
+}
+
+.titulo{
+    text-transform: capitalize;
+}
+
+#nuve{
+    float: left;
+    font-size: 5em;
+    text-transform: uppercase;
+    margin: 0% 20%;
+    max-width: 20%;
+}
+
+.content{
+    border-color: black;
+    border-bottom: 2em;
+    margin: 0 1em;
+    display: inline;
+}
+
+#menu{
+    border: 10;
+    margin: 0% 60%;
+    align-content: left;
+    border-color: black;
+    border-bottom: 0.5em;
+    min-block-size: 5%;
+}
+
+.search,.textbox{
+    margin: 0 50%;
+    float: right;
+}
+
+entradas{
+    float: left;
+    margin: 0% 10%;
+}
+
+#entradas,.search,.textbox{
+    display: inline;
+    margin: 0 auto;
+}
+
+
+
+#textbox{
+
+    color: #a2c3a3;
+
+}
